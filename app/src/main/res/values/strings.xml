@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex091</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="you_are_in_page_1">You are in page #1</string>
+    <string name="you_are_in_page_2">You are in page #2</string>
+</resources>

@@ -14,7 +14,6 @@ import android.widget.TextView;
 public class secondActivity extends AppCompatActivity {
 
     LinearLayout screen;
-    TextView pageIndex;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,9 +21,6 @@ public class secondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
 
         screen = findViewById(R.id.screen);
-        pageIndex = findViewById(R.id.pageIndex);
-
-        pageIndex.setText(R.string.you_are_in_page_2);
     }
 
     public boolean onCreateOptionsMenu(Menu menu) {
